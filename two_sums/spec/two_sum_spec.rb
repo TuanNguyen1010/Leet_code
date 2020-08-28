@@ -18,3 +18,4 @@ describe '#two_sum' do
     expect(two_sum([3,2,4],6)).to eq([1,2])
   end 
 end
+ 
